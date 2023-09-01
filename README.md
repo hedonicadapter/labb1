@@ -1,2 +1,0 @@
-# labb1
-iths
