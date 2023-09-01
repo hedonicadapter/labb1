@@ -13,6 +13,7 @@ namespace Labb1
             foreach (string line in highlightConsecutiveNumbers(userInput)) Console.WriteLine(line);
 
             Console.WriteLine(sum);
+            Console.ReadKey();
         }
         static string getUserInput()
         {
